@@ -1,0 +1,24 @@
+.welcome {
+  background-color: $gray-darker;
+  min-height: 100vh;
+  color: white;
+}
+
+.welcome a {
+  color: $red;
+}
+
+.welcome h1 {
+  margin-bottom: 20px;
+}
+
+.banner {
+  margin-top: 30px;
+  width: 100vw;
+}
+
+.deadpoolimage {
+  width: 250px;
+  border-radius: 5pt;
+  margin-top: 50px;
+}
